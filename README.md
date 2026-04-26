@@ -1,4 +1,4 @@
-# Employee Management System (Java OOP, Spring Boot, Thymeleaf)
+# Nexus Employee Portal(Java OOP, Spring Boot, Thymeleaf)
 
 ## Overview
 The Employee Management System is a full-stack web application built using **Java**, **Spring Boot**, and **Thymeleaf**. It allows organizations to efficiently manage employee records with **CRUD operations** and provides an interactive, dynamic interface for user interaction.
